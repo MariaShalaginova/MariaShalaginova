@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C83F7&random=false&width=435&lines=Hi%2C+I+am+a+frontend+developer)](https://git.io/typing-svg)
 
